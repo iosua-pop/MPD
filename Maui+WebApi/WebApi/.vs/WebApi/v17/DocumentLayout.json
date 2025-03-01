@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BWebApi\\WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62BC7F8D-7269-4E36-928B-4C36F0C19C34}|..\\AppMaui\\AppMaui.csproj|c:\\users\\maria\\source\\repos\\mpd\\maui\u002Bwebapi\\appmaui\\data\\restservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BC7F8D-7269-4E36-928B-4C36F0C19C34}|..\\AppMaui\\AppMaui.csproj|c:\\users\\maria\\source\\repos\\mpd\\maui\u002Bwebapi\\appmaui\\listpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BC7F8D-7269-4E36-928B-4C36F0C19C34}|..\\AppMaui\\AppMaui.csproj|c:\\users\\maria\\source\\repos\\mpd\\maui\u002Bwebapi\\appmaui\\data\\irestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{342B8544-37A1-45C6-8C5E-0C7C68A8B2F0}|WebApi.csproj|c:\\users\\maria\\source\\repos\\mpd\\maui\u002Bwebapi\\webapi\\controllers\\shoplistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{342B8544-37A1-45C6-8C5E-0C7C68A8B2F0}|WebApi.csproj|solutionrelative:controllers\\shoplistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BC7F8D-7269-4E36-928B-4C36F0C19C34}|..\\AppMaui\\AppMaui.csproj|c:\\users\\maria\\source\\repos\\mpd\\maui\u002Bwebapi\\appmaui\\data\\shoppinglistdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RestService.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BWebApi\\AppMaui\\Data\\RestService.cs",
+              "RelativeDocumentMoniker": "..\\AppMaui\\Data\\RestService.cs",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BWebApi\\AppMaui\\Data\\RestService.cs",
+              "RelativeToolTip": "..\\AppMaui\\Data\\RestService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAowE0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T18:46:56.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRestService.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BWebApi\\AppMaui\\Data\\IRestService.cs",
+              "RelativeDocumentMoniker": "..\\AppMaui\\Data\\IRestService.cs",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BWebApi\\AppMaui\\Data\\IRestService.cs",
+              "RelativeToolTip": "..\\AppMaui\\Data\\IRestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T19:06:46.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShopListsController.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BWebApi\\WebApi\\Controllers\\ShopListsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShopListsController.cs",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BWebApi\\WebApi\\Controllers\\ShopListsController.cs",
+              "RelativeToolTip": "Controllers\\ShopListsController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAA7wBcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T19:01:26.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShoppingListDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BWebApi\\AppMaui\\Data\\ShoppingListDatabase.cs",
+              "RelativeDocumentMoniker": "..\\AppMaui\\Data\\ShoppingListDatabase.cs",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BWebApi\\AppMaui\\Data\\ShoppingListDatabase.cs",
+              "RelativeToolTip": "..\\AppMaui\\Data\\ShoppingListDatabase.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAWwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T18:35:40.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BWebApi\\AppMaui\\ListPage.xaml.cs",
+              "RelativeDocumentMoniker": "..\\AppMaui\\ListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BWebApi\\AppMaui\\ListPage.xaml.cs",
+              "RelativeToolTip": "..\\AppMaui\\ListPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T18:35:26.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

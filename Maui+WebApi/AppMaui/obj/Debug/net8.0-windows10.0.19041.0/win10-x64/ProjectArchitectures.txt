@@ -1,0 +1,1 @@
+C:\Users\Maria\source\repos\MPD\Maui+WebApi\AppMaui\AppMaui.csproj;x64
