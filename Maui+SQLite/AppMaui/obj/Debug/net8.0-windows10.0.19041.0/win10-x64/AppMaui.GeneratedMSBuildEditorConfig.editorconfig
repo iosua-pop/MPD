@@ -40,6 +40,18 @@ build_metadata.AdditionalFiles.ManifestResourceName = AppMaui.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
+[C:/Users/Maria/source/repos/MPD/Maui+SQLite/AppMaui/ListEntryPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppMaui.ListEntryPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ListEntryPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ListEntryPage.xaml
+
+[C:/Users/Maria/source/repos/MPD/Maui+SQLite/AppMaui/ListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppMaui.ListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ListPage.xaml
+
 [C:/Users/Maria/source/repos/MPD/Maui+SQLite/AppMaui/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppMaui.MainPage.xaml
