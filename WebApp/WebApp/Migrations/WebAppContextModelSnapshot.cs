@@ -99,6 +99,32 @@ namespace WebApp.Migrations
                     b.ToTable("BookCategory");
                 });
 
+            modelBuilder.Entity("WebApp.Models.Borrowing", b =>
+                {
+                    b.Property<int>("ID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ID"));
+
+                    b.Property<int?>("BookID")
+                        .HasColumnType("int");
+
+                    b.Property<int?>("MemberID")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("ReturnDate")
+                        .HasColumnType("datetime2");
+
+                    b.HasKey("ID");
+
+                    b.HasIndex("BookID");
+
+                    b.HasIndex("MemberID");
+
+                    b.ToTable("Borrowing");
+                });
+
             modelBuilder.Entity("WebApp.Models.Category", b =>
                 {
                     b.Property<int>("ID")
@@ -114,6 +140,35 @@ namespace WebApp.Migrations
                     b.HasKey("ID");
 
                     b.ToTable("Category");
+                });
+
+            modelBuilder.Entity("WebApp.Models.Member", b =>
+                {
+                    b.Property<int>("ID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ID"));
+
+                    b.Property<string>("Adress")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Email")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("FirstName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("LastName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Phone")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("ID");
+
+                    b.ToTable("Member");
                 });
 
             modelBuilder.Entity("WebApp.Models.Publisher", b =>
@@ -169,6 +224,21 @@ namespace WebApp.Migrations
                     b.Navigation("Category");
                 });
 
+            modelBuilder.Entity("WebApp.Models.Borrowing", b =>
+                {
+                    b.HasOne("WebApp.Models.Book", "Book")
+                        .WithMany("Borrowings")
+                        .HasForeignKey("BookID");
+
+                    b.HasOne("WebApp.Models.Member", "Member")
+                        .WithMany("Borrowings")
+                        .HasForeignKey("MemberID");
+
+                    b.Navigation("Book");
+
+                    b.Navigation("Member");
+                });
+
             modelBuilder.Entity("WebApp.Models.Author", b =>
                 {
                     b.Navigation("Books");
@@ -177,11 +247,18 @@ namespace WebApp.Migrations
             modelBuilder.Entity("WebApp.Models.Book", b =>
                 {
                     b.Navigation("BookCategories");
+
+                    b.Navigation("Borrowings");
                 });
 
             modelBuilder.Entity("WebApp.Models.Category", b =>
                 {
                     b.Navigation("BookCategories");
+                });
+
+            modelBuilder.Entity("WebApp.Models.Member", b =>
+                {
+                    b.Navigation("Borrowings");
                 });
 
             modelBuilder.Entity("WebApp.Models.Publisher", b =>
