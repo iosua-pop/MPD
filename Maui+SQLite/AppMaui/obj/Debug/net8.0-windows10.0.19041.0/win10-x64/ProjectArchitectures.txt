@@ -1,0 +1,1 @@
+C:\Users\Maria\source\repos\MPD\Maui+SQLite\AppMaui\AppMaui.csproj;x64

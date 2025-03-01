@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|c:\\users\\maria\\source\\repos\\mpd\\maui\u002Bsqlite\\appmaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|c:\\users\\maria\\source\\repos\\mpd\\maui\u002Bsqlite\\appmaui\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|solutionrelative:aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-01T14:05:16.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AboutPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\AboutPage.xaml",
+              "RelativeDocumentMoniker": "AboutPage.xaml",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\AboutPage.xaml",
+              "RelativeToolTip": "AboutPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-01T14:03:13.372Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
