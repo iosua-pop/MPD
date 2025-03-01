@@ -8,9 +8,9 @@ using Microsoft.EntityFrameworkCore;
 using WebApp.Data;
 using WebApp.Models;
 
-namespace WebApp.Pages.Books
+namespace WebApp.Pages.Categories
 {
-    public class DetailsModel : BookCategoriesPageModel
+    public class DetailsModel : PageModel
     {
         private readonly WebApp.Data.WebAppContext _context;
 
@@ -19,7 +19,7 @@ namespace WebApp.Pages.Books
             _context = context;
         }
 
-        public Book Book { get; set; } = default!;
+        public Category Category { get; set; } = default!;
 
         public async Task<IActionResult> OnGetAsync(int? id)
         {
@@ -28,21 +28,15 @@ namespace WebApp.Pages.Books
                 return NotFound();
             }
 
-            var book = await _context.Book
-                .Include(b => b.Publisher)
-                .Include(b => b.Author)
-                .Include(b => b.BookCategories).ThenInclude(b => b.Category)
-                .AsNoTracking()
-                .FirstOrDefaultAsync(m => m.ID == id);
-
-            if (book == null)
+            var category = await _context.Category.FirstOrDefaultAsync(m => m.ID == id);
+            if (category == null)
             {
                 return NotFound();
             }
-
-            PopulateAssignedCategoryData(_context, book);
-            Book = book;
-
+            else
+            {
+                Category = category;
+            }
             return Page();
         }
     }

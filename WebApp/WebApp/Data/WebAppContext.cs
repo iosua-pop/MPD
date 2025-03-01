@@ -17,5 +17,6 @@ namespace WebApp.Data
         public DbSet<WebApp.Models.Book> Book { get; set; } = default!;
         public DbSet<WebApp.Models.Publisher> Publisher { get; set; } = default!;
         public DbSet<WebApp.Models.Author> Author { get; set; } = default!;
+        public DbSet<WebApp.Models.Category> Category { get; set; } = default!;
     }
 }

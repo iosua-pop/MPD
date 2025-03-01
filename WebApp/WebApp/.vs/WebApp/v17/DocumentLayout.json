@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\books\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\books\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\models\\bookcategoriespagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:models\\bookcategoriespagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,156 +27,92 @@
       "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\books\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\books\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\books\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\books\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\books\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\books\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\books\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\books\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\books\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\models\\bookdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:models\\bookdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\books\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\books\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Migrations\\20250228142706_PublisherAuthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250228142706_PublisherAuthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\books\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\books\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\categories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\categories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\authors\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\authors\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\categories\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\categories\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\authors\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\authors\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\authors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\authors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\categories\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\categories\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\authors\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\authors\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\authors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\authors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\categories\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\categories\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\authors\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\authors\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\authors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\authors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\categories\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\categories\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\authors\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\authors\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\authors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\authors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\data\\webappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:data\\webappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\models\\assignedcategorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:models\\assignedcategorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\publishers\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\publishers\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\publishers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\publishers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Migrations\\20250301110836_BookCategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250301110836_BookCategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\publishers\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\publishers\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\models\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:models\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\publishers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\publishers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\publishers\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\publishers\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\publishers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\publishers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\publishers\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\publishers\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\publishers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\publishers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\publishers\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\publishers\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\publishers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\publishers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Migrations\\20250228124652_PublishingDate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250228124652_PublishingDate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Migrations\\20250228124244_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250228124244_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|c:\\users\\maria\\source\\repos\\mpd\\webapp\\webapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9615FD47-4605-489E-9C76-41EC2A82B588}|WebApp.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -170,110 +122,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Books\\Details.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Books\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Books\\Details.cshtml",
-              "RelativeToolTip": "Pages\\Books\\Details.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T12:42:05.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Details.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Books\\Details.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Books\\Details.cshtml.cs",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Books\\Details.cshtml.cs",
-              "RelativeToolTip": "Pages\\Books\\Details.cshtml.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA1wCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:42:05.797Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Books\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Books\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Books\\Edit.cshtml.cs",
-              "RelativeToolTip": "Pages\\Books\\Edit.cshtml.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAkwCoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:42:05.468Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Books\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Books\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Books\\Edit.cshtml",
-              "RelativeToolTip": "Pages\\Books\\Edit.cshtml",
-              "ViewState": "AgIAABAAAAAAAAAAAAAhwBoAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T12:42:05.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Books\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Books\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Books\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Books\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T12:42:06.345Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Books\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Books\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Books\\Index.cshtml.cs",
-              "RelativeToolTip": "Pages\\Books\\Index.cshtml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:42:06.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Books\\Delete.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Books\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Books\\Delete.cshtml.cs",
-              "RelativeToolTip": "Pages\\Books\\Delete.cshtml.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAgwCIAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:42:06.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Books\\Delete.cshtml",
               "RelativeDocumentMoniker": "Pages\\Books\\Delete.cshtml",
               "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Books\\Delete.cshtml",
               "RelativeToolTip": "Pages\\Books\\Delete.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T12:42:05.99Z",
+              "WhenOpened": "2025-03-01T11:37:41.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Books\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Books\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Books\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Books\\Details.cshtml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:36:20.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Books\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Books\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Books\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Books\\Details.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T11:35:48.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Books\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Books\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Books\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Books\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:29:01.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookData.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Models\\BookData.cs",
+              "RelativeDocumentMoniker": "Models\\BookData.cs",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Models\\BookData.cs",
+              "RelativeToolTip": "Models\\BookData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:28:18.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Books\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Books\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T11:12:28.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookCategoriesPageModel.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Models\\BookCategoriesPageModel.cs",
+              "RelativeDocumentMoniker": "Models\\BookCategoriesPageModel.cs",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Models\\BookCategoriesPageModel.cs",
+              "RelativeToolTip": "Models\\BookCategoriesPageModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:15:06.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Books\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Books\\Create.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAEAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T11:27:47.206Z",
               "EditorCaption": ""
             },
             {
@@ -284,222 +236,183 @@
               "RelativeDocumentMoniker": "Pages\\Books\\Create.cshtml.cs",
               "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Books\\Create.cshtml.cs",
               "RelativeToolTip": "Pages\\Books\\Create.cshtml.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBgAAABVAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwEEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:42:05.111Z",
+              "WhenOpened": "2025-03-01T11:25:32.38Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Books\\Create.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Books\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Books\\Create.cshtml",
-              "RelativeToolTip": "Pages\\Books\\Create.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAASAAAAAAAAAA==",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Books\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Books\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Books\\Edit.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAEEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T12:42:04.911Z",
+              "WhenOpened": "2025-03-01T11:18:31.58Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAACcAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T12:44:19.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "20250228142706_PublisherAuthor.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Migrations\\20250228142706_PublisherAuthor.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250228142706_PublisherAuthor.cs",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Migrations\\20250228142706_PublisherAuthor.cs",
-              "RelativeToolTip": "Migrations\\20250228142706_PublisherAuthor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Books\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Books\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Books\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Books\\Edit.cshtml.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAADoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T14:27:06.406Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Authors\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Authors\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Authors\\Index.cshtml.cs",
-              "RelativeToolTip": "Pages\\Authors\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T14:21:30.32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Authors\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Authors\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Authors\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Authors\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T14:21:30.194Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Authors\\Delete.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Authors\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Authors\\Delete.cshtml.cs",
-              "RelativeToolTip": "Pages\\Authors\\Delete.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T14:21:30.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Publisher.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Models\\Publisher.cs",
-              "RelativeDocumentMoniker": "Models\\Publisher.cs",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Models\\Publisher.cs",
-              "RelativeToolTip": "Models\\Publisher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:53:56.179Z",
+              "WhenOpened": "2025-03-01T11:18:33.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Categories\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Categories\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Categories\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Categories\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:14:32.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T11:14:32.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Categories\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Categories\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Categories\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Categories\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:14:32.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Categories\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Categories\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T11:14:32.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Models\\Book.cs",
               "RelativeDocumentMoniker": "Models\\Book.cs",
               "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Models\\Book.cs",
               "RelativeToolTip": "Models\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:40:32.459Z",
+              "WhenOpened": "2025-03-01T11:07:52.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Categories\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Categories\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Categories\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Categories\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:14:32.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Authors\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Authors\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Authors\\Delete.cshtml",
-              "RelativeToolTip": "Pages\\Authors\\Delete.cshtml",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Categories\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Categories\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Categories\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T14:21:29.862Z",
+              "WhenOpened": "2025-03-01T11:14:32.222Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "Details.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Authors\\Details.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Authors\\Details.cshtml.cs",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Authors\\Details.cshtml.cs",
-              "RelativeToolTip": "Pages\\Authors\\Details.cshtml.cs",
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Categories\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Categories\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Categories\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Categories\\Edit.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T14:21:29.669Z",
+              "WhenOpened": "2025-03-01T11:14:32.069Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Authors\\Details.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Authors\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Authors\\Details.cshtml",
-              "RelativeToolTip": "Pages\\Authors\\Details.cshtml",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Categories\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T14:21:29.476Z",
+              "WhenOpened": "2025-03-01T11:14:31.952Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Authors\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Authors\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Authors\\Edit.cshtml.cs",
-              "RelativeToolTip": "Pages\\Authors\\Edit.cshtml.cs",
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Categories\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Categories\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Categories\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Categories\\Create.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T14:21:29.214Z",
+              "WhenOpened": "2025-03-01T11:14:31.713Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Authors\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Authors\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Authors\\Edit.cshtml",
-              "RelativeToolTip": "Pages\\Authors\\Edit.cshtml",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Categories\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Categories\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T14:21:28.939Z",
+              "WhenOpened": "2025-03-01T11:14:31.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Authors\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Authors\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Authors\\Create.cshtml.cs",
-              "RelativeToolTip": "Pages\\Authors\\Create.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T14:21:28.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Authors\\Create.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Authors\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Authors\\Create.cshtml",
-              "RelativeToolTip": "Pages\\Authors\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T14:21:28.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Author.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Models\\Author.cs",
-              "RelativeDocumentMoniker": "Models\\Author.cs",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Models\\Author.cs",
-              "RelativeToolTip": "Models\\Author.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T14:18:26.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
               "Title": "WebAppContext.cs",
               "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Data\\WebAppContext.cs",
               "RelativeDocumentMoniker": "Data\\WebAppContext.cs",
@@ -507,189 +420,72 @@
               "RelativeToolTip": "Data\\WebAppContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:42:04.441Z",
+              "WhenOpened": "2025-03-01T11:14:31.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AssignedCategoryData.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Models\\AssignedCategoryData.cs",
+              "RelativeDocumentMoniker": "Models\\AssignedCategoryData.cs",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Models\\AssignedCategoryData.cs",
+              "RelativeToolTip": "Models\\AssignedCategoryData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:13:09.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T11:08:53.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250301110836_BookCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Migrations\\20250301110836_BookCategory.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250301110836_BookCategory.cs",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Migrations\\20250301110836_BookCategory.cs",
+              "RelativeToolTip": "Migrations\\20250301110836_BookCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:08:36.268Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Publishers\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Publishers\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Publishers\\Index.cshtml.cs",
-              "RelativeToolTip": "Pages\\Publishers\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "BookCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Models\\BookCategory.cs",
+              "RelativeDocumentMoniker": "Models\\BookCategory.cs",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Models\\BookCategory.cs",
+              "RelativeToolTip": "Models\\BookCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:55:16.296Z",
+              "WhenOpened": "2025-03-01T11:07:18.776Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Publishers\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Publishers\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Publishers\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Publishers\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T12:55:15.954Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Publishers\\Delete.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Publishers\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Publishers\\Delete.cshtml.cs",
-              "RelativeToolTip": "Pages\\Publishers\\Delete.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:55:15.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Publishers\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Publishers\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Publishers\\Delete.cshtml",
-              "RelativeToolTip": "Pages\\Publishers\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T12:55:15.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Details.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Publishers\\Details.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Publishers\\Details.cshtml.cs",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Publishers\\Details.cshtml.cs",
-              "RelativeToolTip": "Pages\\Publishers\\Details.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:55:14.284Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Publishers\\Details.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Publishers\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Publishers\\Details.cshtml",
-              "RelativeToolTip": "Pages\\Publishers\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T12:55:13.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Publishers\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Publishers\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Publishers\\Edit.cshtml.cs",
-              "RelativeToolTip": "Pages\\Publishers\\Edit.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:55:13.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Publishers\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Publishers\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Publishers\\Edit.cshtml",
-              "RelativeToolTip": "Pages\\Publishers\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T12:55:13.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Publishers\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Publishers\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Publishers\\Create.cshtml.cs",
-              "RelativeToolTip": "Pages\\Publishers\\Create.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:55:12.922Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Publishers\\Create.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Publishers\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Publishers\\Create.cshtml",
-              "RelativeToolTip": "Pages\\Publishers\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T12:55:12.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "20250228124652_PublishingDate.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Migrations\\20250228124652_PublishingDate.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250228124652_PublishingDate.cs",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Migrations\\20250228124652_PublishingDate.cs",
-              "RelativeToolTip": "Migrations\\20250228124652_PublishingDate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:46:52.975Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "20250228124244_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Migrations\\20250228124244_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250228124244_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Migrations\\20250228124244_InitialCreate.cs",
-              "RelativeToolTip": "Migrations\\20250228124244_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:42:45.094Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:42:04.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\WebApp\\WebApp\\Pages\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T12:31:25.909Z",
+              "WhenOpened": "2025-03-01T11:07:04.432Z",
               "EditorCaption": ""
             }
           ]
