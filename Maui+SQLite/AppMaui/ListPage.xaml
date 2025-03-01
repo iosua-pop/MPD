@@ -4,20 +4,42 @@
              x:Class="AppMaui.ListPage"
              Title="ListPage">
 
-    <StackLayout Margin="20">
-        <Editor Placeholder="Enter the description of the shopping list"
+    <ContentPage.Content xmlns:local="clr-namespace:AppMaui">
+        <StackLayout Margin="20">
+            <Editor Placeholder="Enter the description of the shopping list"
             Text="{Binding Description}"
-            HeightRequest="100" />
-        <Grid>
-            <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="*" />
-                <ColumnDefinition Width="*" />
-            </Grid.ColumnDefinitions>
-            <Button Text="Save"
-                Clicked="OnSaveButtonClicked" />
-            <Button Grid.Column="1"
+            HeightRequest="50">
+                <Editor.Behaviors>
+                    <local:ValidationBehavior/>
+                </Editor.Behaviors>
+            </Editor>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Button Text="Save"
+                Clicked="OnSaveButtonClicked"/>
+                <Button Grid.Column="1"
                 Text="Delete"
                 Clicked="OnDeleteButtonClicked"/>
-        </Grid>
-    </StackLayout>
+                <Button Grid.Column="2"
+                Text="Delete Item"
+                Clicked="OnDeleteItemButtonClicked"/>
+            </Grid>
+
+            <ListView x:Name="listView"
+              Margin="20">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell Detail="{Binding Description}"/>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+            <Button Text="Add/Choose Item to buy" MaximumWidthRequest="300"
+            Clicked="OnChooseButtonClicked"/>
+        </StackLayout>
+    </ContentPage.Content>
 </ContentPage>

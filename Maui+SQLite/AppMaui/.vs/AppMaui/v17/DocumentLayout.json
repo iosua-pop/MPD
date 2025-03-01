@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|c:\\users\\maria\\source\\repos\\mpd\\maui\u002Bsqlite\\appmaui\\listpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|solutionrelative:listpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|c:\\users\\maria\\source\\repos\\mpd\\maui\u002Bsqlite\\appmaui\\listpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|solutionrelative:listpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|c:\\users\\maria\\source\\repos\\mpd\\maui\u002Bsqlite\\appmaui\\listentrypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|solutionrelative:listentrypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|c:\\users\\maria\\source\\repos\\mpd\\maui\u002Bsqlite\\appmaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|c:\\users\\maria\\source\\repos\\mpd\\maui\u002Bsqlite\\appmaui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|c:\\users\\maria\\source\\repos\\mpd\\maui\u002Bsqlite\\appmaui\\productpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|solutionrelative:productpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|c:\\users\\maria\\source\\repos\\mpd\\maui\u002Bsqlite\\appmaui\\listentrypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,12 +19,48 @@
       "RelativeMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|solutionrelative:data\\shoppinglistdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|c:\\users\\maria\\source\\repos\\mpd\\maui\u002Bsqlite\\appmaui\\models\\shoplist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|solutionrelative:models\\shoplist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|c:\\users\\maria\\source\\repos\\mpd\\maui\u002Bsqlite\\appmaui\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|solutionrelative:validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|c:\\users\\maria\\source\\repos\\mpd\\maui\u002Bsqlite\\appmaui\\productpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|solutionrelative:productpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|c:\\users\\maria\\source\\repos\\mpd\\maui\u002Bsqlite\\appmaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|c:\\users\\maria\\source\\repos\\mpd\\maui\u002Bsqlite\\appmaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|c:\\users\\maria\\source\\repos\\mpd\\maui\u002Bsqlite\\appmaui\\listpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|solutionrelative:listpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|c:\\users\\maria\\source\\repos\\mpd\\maui\u002Bsqlite\\appmaui\\listentrypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|solutionrelative:listentrypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|c:\\users\\maria\\source\\repos\\mpd\\maui\u002Bsqlite\\appmaui\\models\\listproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|solutionrelative:models\\listproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|c:\\users\\maria\\source\\repos\\mpd\\maui\u002Bsqlite\\appmaui\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|c:\\users\\maria\\source\\repos\\mpd\\maui\u002Bsqlite\\appmaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|c:\\users\\maria\\source\\repos\\mpd\\maui\u002Bsqlite\\appmaui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|c:\\users\\maria\\source\\repos\\mpd\\maui\u002Bsqlite\\appmaui\\models\\shoplist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|solutionrelative:models\\shoplist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9DD72DE6-A8C5-4621-BD23-D547E85929EA}|AppMaui.csproj|c:\\users\\maria\\source\\repos\\mpd\\maui\u002Bsqlite\\appmaui\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -50,24 +74,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\AppShell.xaml",
-              "RelativeDocumentMoniker": "AppShell.xaml",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\AppShell.xaml",
-              "RelativeToolTip": "AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\ListPage.xaml",
+              "RelativeDocumentMoniker": "ListPage.xaml",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\ListPage.xaml",
+              "RelativeToolTip": "ListPage.xaml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-01T14:42:28.833Z",
+              "WhenOpened": "2025-03-01T14:38:51.485Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ListEntryPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\ListEntryPage.xaml.cs",
+              "RelativeDocumentMoniker": "ListEntryPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\ListEntryPage.xaml.cs",
+              "RelativeToolTip": "ListEntryPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:38:06.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\ProductPage.xaml.cs",
+              "RelativeDocumentMoniker": "ProductPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\ProductPage.xaml.cs",
+              "RelativeToolTip": "ProductPage.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAEwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:58:35.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShoppingListDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\Data\\ShoppingListDatabase.cs",
+              "RelativeDocumentMoniker": "Data\\ShoppingListDatabase.cs",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\Data\\ShoppingListDatabase.cs",
+              "RelativeToolTip": "Data\\ShoppingListDatabase.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:35:22.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValidationBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\ValidationBehaviour.cs",
+              "RelativeDocumentMoniker": "ValidationBehaviour.cs",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\ValidationBehaviour.cs",
+              "RelativeToolTip": "ValidationBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T15:07:57.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\ProductPage.xaml",
+              "RelativeDocumentMoniker": "ProductPage.xaml",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\ProductPage.xaml",
+              "RelativeToolTip": "ProductPage.xaml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-01T14:57:50.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T15:06:31.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\ListPage.xaml.cs",
+              "RelativeDocumentMoniker": "ListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\ListPage.xaml.cs",
+              "RelativeToolTip": "ListPage.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:39:07.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ListEntryPage.xaml",
               "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\ListEntryPage.xaml",
               "RelativeDocumentMoniker": "ListEntryPage.xaml",
@@ -80,85 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ListPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\ListPage.xaml",
-              "RelativeDocumentMoniker": "ListPage.xaml",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\ListPage.xaml",
-              "RelativeToolTip": "ListPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-01T14:38:51.485Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ListPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\ListPage.xaml.cs",
-              "RelativeDocumentMoniker": "ListPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\ListPage.xaml.cs",
-              "RelativeToolTip": "ListPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T14:39:07.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\App.xaml",
-              "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\App.xaml",
-              "RelativeToolTip": "App.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-01T14:50:01.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ListEntryPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\ListEntryPage.xaml.cs",
-              "RelativeDocumentMoniker": "ListEntryPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\ListEntryPage.xaml.cs",
-              "RelativeToolTip": "ListEntryPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T14:38:06.768Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ShoppingListDatabase.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\Data\\ShoppingListDatabase.cs",
-              "RelativeDocumentMoniker": "Data\\ShoppingListDatabase.cs",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\Data\\ShoppingListDatabase.cs",
-              "RelativeToolTip": "Data\\ShoppingListDatabase.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA1wCwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T14:35:22.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ShopList.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\Models\\ShopList.cs",
-              "RelativeDocumentMoniker": "Models\\ShopList.cs",
-              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\Models\\ShopList.cs",
-              "RelativeToolTip": "Models\\ShopList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T14:33:07.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\MainPage.xaml",
               "RelativeDocumentMoniker": "MainPage.xaml",
@@ -171,7 +208,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
+              "Title": "ListProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\Models\\ListProduct.cs",
+              "RelativeDocumentMoniker": "Models\\ListProduct.cs",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\Models\\ListProduct.cs",
+              "RelativeToolTip": "Models\\ListProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:57:04.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:56:26.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-01T14:42:28.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-01T14:50:01.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShopList.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\Models\\ShopList.cs",
+              "RelativeDocumentMoniker": "Models\\ShopList.cs",
+              "ToolTip": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\Models\\ShopList.cs",
+              "RelativeToolTip": "Models\\ShopList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:33:07.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "AboutPage.xaml",
               "DocumentMoniker": "C:\\Users\\Maria\\source\\repos\\MPD\\Maui\u002BSQLite\\AppMaui\\AboutPage.xaml",
               "RelativeDocumentMoniker": "AboutPage.xaml",
