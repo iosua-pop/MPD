@@ -85,9 +85,21 @@
               "version": "[8.0.12, )",
               "autoReferenced": true
             },
+            "Plugin.LocalNotification": {
+              "target": "Package",
+              "version": "[11.1.4, )"
+            },
             "SQLiteNetExtensions": {
               "target": "Package",
               "version": "[2.1.0, )"
+            },
+            "Xamarin.AndroidX.Fragment": {
+              "target": "Package",
+              "version": "[1.7.0.2, )"
+            },
+            "Xamarin.AndroidX.Fragment.Ktx": {
+              "target": "Package",
+              "version": "[1.7.0.2, )"
             },
             "sqlite-net-pcl": {
               "target": "Package",
@@ -158,6 +170,10 @@
               "version": "[8.0.12, )",
               "autoReferenced": true
             },
+            "Plugin.LocalNotification": {
+              "target": "Package",
+              "version": "[11.1.4, )"
+            },
             "SQLiteNetExtensions": {
               "target": "Package",
               "version": "[2.1.0, )"
@@ -219,6 +235,10 @@
               "version": "[8.0.12, )",
               "autoReferenced": true
             },
+            "Plugin.LocalNotification": {
+              "target": "Package",
+              "version": "[11.1.4, )"
+            },
             "SQLiteNetExtensions": {
               "target": "Package",
               "version": "[2.1.0, )"
@@ -274,6 +294,10 @@
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
               "version": "[8.0.100, )"
+            },
+            "Plugin.LocalNotification": {
+              "target": "Package",
+              "version": "[11.1.4, )"
             },
             "SQLiteNetExtensions": {
               "target": "Package",
