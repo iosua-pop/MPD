@@ -20,17 +20,52 @@
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model.Category) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.CategoryName)
-            </td>
-            <td>
-                <a asp-page="./Edit" asp-route-id="@item.ID">Edit</a> |
-                <a asp-page="./Details" asp-route-id="@item.ID">Details</a> |
-                <a asp-page="./Delete" asp-route-id="@item.ID">Delete</a>
-            </td>
-        </tr>
-}
+        @foreach (var item in Model.CategoryData.Categories)
+        {
+            string selectedRow = "";
+            if (item.ID == Model.CategoryID)
+            {
+                selectedRow = "table-success";
+            }
+            <tr class="@selectedRow">
+                <td>
+                    @Html.DisplayFor(modelItem => item.CategoryName)
+                </td>
+                <td>
+                    <a asp-page="./Index" asp-route-id="@item.ID">Select</a> |
+                    <a asp-page="./Edit" asp-route-id="@item.ID">Edit</a> |
+                    <a asp-page="./Details" asp-route-id="@item.ID">Details</a> |
+                    <a asp-page="./Delete" asp-route-id="@item.ID">Delete</a>
+                </td>
+            </tr>
+
+        }
     </tbody>
 </table>
+@if (Model.CategoryData.Books != null)
+{
+    <h3>Books Edited by Selected Categories</h3>
+    <table class="table">
+        @foreach (var item in Model.CategoryData.Categories)
+        {
+            string selectedRow = "";
+            if (item.ID == Model.CategoryID)
+            {
+                selectedRow = "table-success";
+            }
+            <tr class="@selectedRow">
+                <td>
+                    @{
+                        string separator = ", ";
+                        foreach (var bc in item.BookCategories)
+                        {
+                            @bc.Book.Title @: @separator  @bc.Book.Author.FullName
+                            <br />
+                        }
+                    }
+                </td>
+            </tr>
+        }
+    </table>
+}
+
