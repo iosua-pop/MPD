@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SchoolApp.MemberDetailsPage"
+             Title="Detalii Student">
+    
+    <StackLayout Padding="20">
+        <Label Text="Prenume:" />
+        <Entry Text="{Binding Prenume}" />
+
+        <Label Text="Nume:" />
+        <Entry Text="{Binding Nume}" />
+
+        <Label Text="Email:" />
+        <Entry Text="{Binding Email}"/>
+
+        <Label Text="Numar Telefon:" />
+        <Entry Text="{Binding NumarTelefon}" />
+
+        <Label Text="Adresa:" />
+        <Entry Text="{Binding Adresa}" />
+
+        <Button Text="Salveaza" Clicked="OnSaveButtonClicked" />
+    </StackLayout>
+</ContentPage>

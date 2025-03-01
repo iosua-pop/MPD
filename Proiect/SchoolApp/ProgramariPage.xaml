@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SchoolApp.ProgramariPage"
+             Title="Programările Mele">
+
+    <StackLayout Padding="20">
+        <Button x:Name="addButton" Text="Adauga Programare" Clicked="OnAddProgramareClicked" />
+
+        <ListView x:Name="programariListView">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal" Padding="5">
+                            <Label Text="{Binding DisplayName}" FontSize="18" />
+                            <Label Text="{Binding OraProgramarii, StringFormat='{0:dd/MM/yyyy HH:mm}'}" FontSize="16" />
+                            <Label Text="{Binding AdresaProgramarii}" FontSize="14" />
+                            <Button Text="✏️" Clicked="OnEditProgramareClicked" />
+                            <Button Text="🗑️" Clicked="OnDeleteProgramareClicked" BackgroundColor="Red" TextColor="White" />
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>

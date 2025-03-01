@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SchoolApp.FeedbackDetailsPage"
+             Title="FeedbackDetailsPage">
+
+    <StackLayout Padding="20">
+        <Label Text="Număr Stele (1-5):" />
+        <Entry Text="{Binding Stars}" Keyboard="Numeric"/>
+
+        <Label Text="Descriere:" />
+        <Editor Text="{Binding Description}" HeightRequest="100" />
+
+        <Button Text="Salvează" Clicked="OnSaveButtonClicked" />
+        <Button Text="Șterge" Clicked="OnDeleteButtonClicked" />
+    </StackLayout>
+</ContentPage>
