@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="SchoolApp.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:SchoolApp"
+    Shell.FlyoutBehavior="Disabled"
+    Title="SchoolApp">
+
+    <TabBar>
+        <ShellContent 
+        Title="Membri"
+        ContentTemplate="{DataTemplate local:MembersPage}" />
+
+        <ShellContent 
+        Title="Instrumente"
+        ContentTemplate="{DataTemplate local:InstrumentsPage}" />
+
+        <ShellContent 
+        Title="Profesori"
+        ContentTemplate="{DataTemplate local:ProfessorsPage}" />
+
+        <ShellContent 
+        Title="Programari"
+        ContentTemplate="{DataTemplate local:ProgramariPage}" />
+
+        <ShellContent 
+        Title="Feedback"
+        ContentTemplate="{DataTemplate local:FeedbackPage}" />
+
+        <ShellContent 
+        Title="Despre"
+        ContentTemplate="{DataTemplate local:AboutPage}" />
+    </TabBar>
+
+</Shell>
