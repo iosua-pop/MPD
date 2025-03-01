@@ -1,1 +1,0 @@
-C:\Users\Maria\source\repos\MPD\Maui+WebApi\SchoolApp\SchoolApp.csproj;x64
